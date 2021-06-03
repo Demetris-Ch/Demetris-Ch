@@ -16,3 +16,13 @@ Here are some ideas to get you started:
 ![Screenshot](Logo1.png)
 ### Who am I:
 A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated with Machine Learning, Artificial Intelligence, and Software Development
+
+### Support or Contact
+👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](dchrys01@outlook.com)
+
+####
+<a href="https://www.facebook.com/dimitris.chrysostomou1" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/fb.png" alt="Facebook" width="30"></a>
+<a href="https://twitter.com/DemetrisChryso1" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/tw.png" alt="Twitter" width="30"></a>
+<a href="https://www.instagram.com/demetris_chrysostomou/" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/ig.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/demetris-chrysostomou/" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/git.png" alt="GitHub" width="30"></a>
