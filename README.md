@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Demetris-Ch/Demetris-Ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Screenshot](Logo1.png)
+### Who am I:
+A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated with Machine Learning, Artificial Intelligence, and Software Development
