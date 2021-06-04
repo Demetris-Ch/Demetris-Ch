@@ -19,13 +19,13 @@ A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated
 
 ## Work Experience:
  * Mar. 2020- Sep. 2020 		Research and Development Intern – ABB Corporate research
- ..*	Cyber Physical Systems Group
- ..*	Agile Environment
- ..*	Nominated at the ABB New Talent Club
- ..*	Utilized Artificial Intelligence, Natural Language Processing, Natural Language Understanding, Machine Learning 
- ..*	Devised machine learning models and application logic for AI-assisted automated security testing for industrial automation systems 
- ..*	Designed software architecture for proof of concept (POC)
- ..*	Implemented POC and documented technical summary
+   *	Cyber Physical Systems Group
+   *	Agile Environment
+   *	Nominated at the ABB New Talent Club
+   *	Utilized Artificial Intelligence, Natural Language Processing, Natural Language Understanding, Machine Learning 
+   *	Devised machine learning models and application logic for AI-assisted automated security testing for industrial automation systems 
+   *	Designed software architecture for proof of concept (POC)
+   *	Implemented POC and documented technical summary
 
  * Jun. 2015 -Aug. 2018		Research Assistant – Power Systems Modelling Laboratory, University of Cyprus
 
