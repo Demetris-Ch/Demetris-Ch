@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ## Who am I:
 A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated with Machine Learning, Artificial Intelligence, and Software Development
 
-## <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/work.png"> Work Experience:
+## <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/work.png"> Work Experience:
 
- * Mar. 2020- Sep. 2020 		**Research and Development Intern – ABB Corporate research** <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/abb.png">
+ * Mar. 2020- Sep. 2020 		**Research and Development Intern – ABB Corporate research** <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/abb.png">
 
    *	Cyber Physical Systems Group
    *	Agile Environment
