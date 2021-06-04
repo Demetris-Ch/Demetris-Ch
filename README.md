@@ -26,4 +26,4 @@ A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated
 <a href="https://www.instagram.com/demetris_chrysostomou/" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/insta.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/demetris-chrysostomou/" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/linkedin.png" alt="LinkedIn" width="30"></a>
 <a href="https://scholar.google.com/citations?user=dvzS94wAAAAJ&hl=en" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/scholar.png" alt="Scholar" width="30"></a>
-<a href="https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/git.png" alt="GitHub" width="30"></a>
+<a href="https://github.com/Demetris-Ch" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/git.png" alt="GitHub" width="30"></a>
