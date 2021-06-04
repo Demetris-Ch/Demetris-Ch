@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Screenshot](Logo1.png)
+<img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Logo1.png" alt="Facebook"></a>
 ### Who am I:
 A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated with Machine Learning, Artificial Intelligence, and Software Development
 
@@ -23,6 +23,6 @@ A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated
 ####
 <a href="https://www.facebook.com/dimitris.chrysostomou1" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/fb.png" alt="Facebook" width="30"></a>
 <a href="https://twitter.com/DemetrisChryso1" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/tw.png" alt="Twitter" width="30"></a>
-<a href="https://www.instagram.com/demetris_chrysostomou/" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/insta.jpg" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/in/demetris-chrysostomou/" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://www.instagram.com/demetris_chrysostomou/" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/insta.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/demetris-chrysostomou/" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/linkedin.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/git.png" alt="GitHub" width="30"></a>
