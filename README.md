@@ -30,7 +30,7 @@ A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated
 
 ## <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/work.png"> Work Experience:
 
- * Mar. 2020- Sep. 2020 		**Research and Development Intern – ABB Corporate research** <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/abb.png">
+ * Mar. 2020- Sep. 2020 		**Research and Development Intern – ABB Corporate research** <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/abb.png">
 
    *	Cyber Physical Systems Group
    *	Agile Environment
