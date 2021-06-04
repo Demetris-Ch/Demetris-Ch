@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated with Machine Learning, Artificial Intelligence, and Software Development
 
 ## Work Experience:
- * Mar. 2020- Sep. 2020 		Research and Development Intern – ABB Corporate research
+ * Mar. 2020- Sep. 2020 		**Research and Development Intern – ABB Corporate research**
    *	Cyber Physical Systems Group
    *	Agile Environment
    *	Nominated at the ABB New Talent Club
@@ -27,15 +27,15 @@ A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated
    *	Designed software architecture for proof of concept (POC)
    *	Implemented POC and documented technical summary
 
- * Jun. 2015 -Aug. 2018		Research Assistant – Power Systems Modelling Laboratory, University of Cyprus
+ * Jun. 2015 -Aug. 2018		**Research Assistant – Power Systems Modelling Laboratory, University of Cyprus**
 
- * May. 2018 – Jul. 2018	External Evaluation Committee Member – CYQAA
- ..*	The Cyprus Agency of Quality Assurance and Accreditation in Higher Education
- ..*	The only student member of the Committee of 5 people, for Evaluation-Accreditation of:
- ....*	Intercollege, Electrical Technician Diploma
- ....*	Cyprus College, Electrical Technician Diploma
+ * May. 2018 – Jul. 2018	**External Evaluation Committee Member – CYQAA**
+   *	The Cyprus Agency of Quality Assurance and Accreditation in Higher Education
+   *	The only student member of the Committee of 5 people, for Evaluation-Accreditation of:
+     *	Intercollege, Electrical Technician Diploma
+     *	Cyprus College, Electrical Technician Diploma
 
- * Jun. 2012 –Jun. 2014		Soldier– National Guard of Cyprus
+ * Jun. 2012 –Jun. 2014		**Soldier– National Guard of Cyprus**
 
 
 ### Support or Contact
