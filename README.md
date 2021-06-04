@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Picture1.png" alt="Facebook"></a>
+<img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Picture1.png" alt="Logo"></a>
 ### Who am I:
 A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated with Machine Learning, Artificial Intelligence, and Software Development
 
