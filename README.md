@@ -19,8 +19,8 @@ A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated
 
 ## Work Experience:
 <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/abb.png">
- * Mar. 2020- Sep. 2020 		**Research and Development Intern – ABB Corporate research**
 
+ * Mar. 2020- Sep. 2020 		**Research and Development Intern – ABB Corporate research**
    *	Cyber Physical Systems Group
    *	Agile Environment
    *	Nominated at the ABB New Talent Club
@@ -29,7 +29,7 @@ A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated
    *	Designed software architecture for proof of concept (POC)
    *	Implemented POC and documented technical summary
 
-<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/psm.png">
+<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/PSM.png">
 
  * Jun. 2015 -Aug. 2018		**Research Assistant – Power Systems Modelling Laboratory, University of Cyprus**
 
@@ -40,7 +40,7 @@ A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated
       1.	Intercollege, Electrical Technician Diploma
       2.	Cyprus College, Electrical Technician Diploma
 
-<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/army.png">
+<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Army.png">
  * Jun. 2012 –Jun. 2014		**Soldier– National Guard of Cyprus**
 
 
