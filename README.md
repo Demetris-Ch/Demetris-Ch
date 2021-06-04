@@ -19,7 +19,7 @@ A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated
 
 ## Work Experience:
 
- * Mar. 2020- Sep. 2020 		**Research and Development Intern – ABB Corporate research** <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/abb.png">
+ * Mar. 2020- Sep. 2020 		**Research and Development Intern – ABB Corporate research** <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/abb.png">
 
    *	Cyber Physical Systems Group
    *	Agile Environment
@@ -30,15 +30,15 @@ A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated
    *	Implemented POC and documented technical summary
 
 
- * Jun. 2015 -Aug. 2018		**Research Assistant – Power Systems Modelling Laboratory, University of Cyprus** <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/PSM.png">
+ * Jun. 2015 -Aug. 2018		**Research Assistant – Power Systems Modelling Laboratory, University of Cyprus** <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/PSM.png">
 
- * May. 2018 – Jul. 2018	**External Evaluation Committee Member – CYQAA** <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/dipae.png">
+ * May. 2018 – Jul. 2018	**External Evaluation Committee Member – CYQAA** <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/dipae.png">
    *	The Cyprus Agency of Quality Assurance and Accreditation in Higher Education
    *	The only student member of the Committee of 5 people, for Evaluation-Accreditation of:
       1.	Intercollege, Electrical Technician Diploma
       2.	Cyprus College, Electrical Technician Diploma
 
- * Jun. 2012 –Jun. 2014		**Soldier– National Guard of Cyprus** <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Army.png">
+ * Jun. 2012 –Jun. 2014		**Soldier– National Guard of Cyprus** <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Army.png">
 
 
 
