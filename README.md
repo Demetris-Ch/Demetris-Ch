@@ -14,10 +14,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Picture1.png" alt="Logo"></a>
+## Support or Contact
+👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](dchrys01@outlook.com)
+
+####
+<a href="https://www.facebook.com/dimitris.chrysostomou1" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/fb.png" alt="Facebook" width="30"></a>
+<a href="https://twitter.com/DemetrisChryso1" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/twitter.png" alt="Twitter" width="30"></a>
+<a href="https://www.instagram.com/demetris_chrysostomou/" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/insta.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/demetris-chrysostomou/" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/linkedin.png" alt="LinkedIn" width="30"></a>
+<a href="https://scholar.google.com/citations?user=dvzS94wAAAAJ&hl=en" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/scholar.png" alt="Scholar" width="30"></a>
+<a href="https://github.com/Demetris-Ch" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/git.png" alt="GitHub" width="30"></a>
+
 ## Who am I:
 A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated with Machine Learning, Artificial Intelligence, and Software Development
 
-## Work Experience:
+## <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/work.png"> Work Experience:
 
  * Mar. 2020- Sep. 2020 		**Research and Development Intern – ABB Corporate research** <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/abb.png">
 
@@ -45,13 +56,3 @@ A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated
 
 
 
-## Support or Contact
-👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](dchrys01@outlook.com)
-
-####
-<a href="https://www.facebook.com/dimitris.chrysostomou1" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/fb.png" alt="Facebook" width="30"></a>
-<a href="https://twitter.com/DemetrisChryso1" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/twitter.png" alt="Twitter" width="30"></a>
-<a href="https://www.instagram.com/demetris_chrysostomou/" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/insta.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/in/demetris-chrysostomou/" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/linkedin.png" alt="LinkedIn" width="30"></a>
-<a href="https://scholar.google.com/citations?user=dvzS94wAAAAJ&hl=en" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/scholar.png" alt="Scholar" width="30"></a>
-<a href="https://github.com/Demetris-Ch" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/git.png" alt="GitHub" width="30"></a>
