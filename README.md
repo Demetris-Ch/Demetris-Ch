@@ -32,8 +32,8 @@ A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated
  * May. 2018 – Jul. 2018	**External Evaluation Committee Member – CYQAA**
    *	The Cyprus Agency of Quality Assurance and Accreditation in Higher Education
    *	The only student member of the Committee of 5 people, for Evaluation-Accreditation of:
-     1.	Intercollege, Electrical Technician Diploma
-     2.	Cyprus College, Electrical Technician Diploma
+      1.	Intercollege, Electrical Technician Diploma
+      2.	Cyprus College, Electrical Technician Diploma
 
  * Jun. 2012 –Jun. 2014		**Soldier– National Guard of Cyprus**
 
