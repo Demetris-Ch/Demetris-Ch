@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Picture1.png" alt="Logo"></a>
-### Who am I:
+## Who am I:
 A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated with Machine Learning, Artificial Intelligence, and Software Development
 
 ## Work Experience:
-<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/abb.png">
 
- * Mar. 2020- Sep. 2020 		**Research and Development Intern – ABB Corporate research**
+ * Mar. 2020- Sep. 2020 		**Research and Development Intern – ABB Corporate research** <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/abb.png">
+
    *	Cyber Physical Systems Group
    *	Agile Environment
    *	Nominated at the ABB New Talent Club
@@ -29,22 +29,20 @@ A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated
    *	Designed software architecture for proof of concept (POC)
    *	Implemented POC and documented technical summary
 
-<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/PSM.png">
 
- * Jun. 2015 -Aug. 2018		**Research Assistant – Power Systems Modelling Laboratory, University of Cyprus**
+ * Jun. 2015 -Aug. 2018		**Research Assistant – Power Systems Modelling Laboratory, University of Cyprus** <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/PSM.png">
 
-<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/dipae.png">
- * May. 2018 – Jul. 2018	**External Evaluation Committee Member – CYQAA**
+ * May. 2018 – Jul. 2018	**External Evaluation Committee Member – CYQAA** <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/dipae.png">
    *	The Cyprus Agency of Quality Assurance and Accreditation in Higher Education
    *	The only student member of the Committee of 5 people, for Evaluation-Accreditation of:
       1.	Intercollege, Electrical Technician Diploma
       2.	Cyprus College, Electrical Technician Diploma
 
-<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Army.png">
- * Jun. 2012 –Jun. 2014		**Soldier– National Guard of Cyprus**
+ * Jun. 2012 –Jun. 2014		**Soldier– National Guard of Cyprus** <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Army.png">
 
 
-### Support or Contact
+
+## Support or Contact
 👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](dchrys01@outlook.com)
 
 ####
