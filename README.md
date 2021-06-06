@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## Who am I:
 A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated with Machine Learning, Artificial Intelligence, and Software Development
 
-## <img align="left" width="60" height="60" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/work.png"> Work Experience:
+## <img align="left" width="80" height="80" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/work.png"> Work Experience:
   <br />
   <br />
   
@@ -46,7 +46,8 @@ A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated
  * Jun. 2015 -Aug. 2018		**Research Assistant – Power Systems Modelling Laboratory, University of Cyprus** <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/PSM.png">
    *  Participated in Research Projects
    *  Designed Smartphone and Desktop Applications using Matlab, Java & Android Studio
-
+<br />
+<br />
  * May. 2018 – Jul. 2018	**External Evaluation Committee Member – CYQAA** <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/dipae.png">
    *	The Cyprus Agency of Quality Assurance and Accreditation in Higher Education
    *	The only student member of the Committee of 5 people, for Evaluation-Accreditation of:
