@@ -60,5 +60,9 @@ A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated
 * Jun. 2012 –Jun. 2014		**Soldier– National Guard of Cyprus** <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Army.png">
    * Mandatory Service
 
+## <img align="left" width="80" height="80" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/edu.png"> Education:
+  <br />
+  <br />
+
 
 
