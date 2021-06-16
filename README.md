@@ -64,7 +64,7 @@ A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated
 <br />
 <br />
 
-<img align="left" width="60" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/edu.jpg"> Education:
+## <img align="left" width="60" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/edu.jpg"> Education:
   <br />
   <br />
 
