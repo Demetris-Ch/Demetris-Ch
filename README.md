@@ -60,9 +60,23 @@ A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated
 * Jun. 2012 –Jun. 2014		**Soldier– National Guard of Cyprus** <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Army.png">
    * Mandatory Service
 
+<br />
 ## <img align="left" width="60" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/edu.jpg"> Education:
   <br />
   <br />
 
+*	Sep. 2018 – Jun. 2021		**Robotics, Systems and Control Msc – ETH Zurich**
+  *	Thesis: “Optimal learning task paths for neural networks”
+  *	Semester Project: “Impact of Inverter-Based Generation on Islanding Detection Schemes in Distribution Networks”
+  *	Modules Include: Autonomous Mobility on Demand, Dynamic Programming and Optimal Control, Recursive Estimation, Introduction to Machine Learning, Probabilistic Artificial Intelligence, System Identification, Virtual and Augmented Reality in Medicine, Theory of Robotics and Mechatronics, Linear Systems Theory
+  *	GPA 5.24 out of 6
+
+* Sep. 2014 – Jun. 2018		**Electrical Engineering BSc – University of Cyprus**
+  *	Thesis: “AC Interference Study on DESFA Natural Gas Pipeline due to the Operation of a 20.8 MW Wind Park”
+  *	Excellent Performance - GPA 9.03 out of 10
+  *	Best Thesis of the Electrical and Computer Engineering Department for 2018
+
+* Sep. 2009 – Jun. 2012		**High School Diploma – Dali Lyceum**
+  *	Excellent Performance - GPA of 19.17 out of 20 
 
 
