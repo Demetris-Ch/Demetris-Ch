@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Demetris-Ch" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/git.png" alt="GitHub" width="60"></a>
 
 ## Who am I:
-A recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated with Machine Learning, Artificial Intelligence, and Software Development
+A Ph.D. candidate at the AI Energy lab of the IEPG group of TU Delft. I am a recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated with Machine Learning, Artificial Intelligence, and Power Systems
 
 ## <img align="left" width="80" height="80" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/work.png"> Work Experience:
   <br />
