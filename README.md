@@ -1,85 +1,59 @@
 
-<!--
-**Demetris-Ch/Demetris-Ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Demetris Chrysostomou
 
-Here are some ideas to get you started:
+I'm a PhD researcher at TU Delft working at the intersection of **Artificial Intelligence** and **Power Systems**. My work focuses on developing machine learning-based methods that enhance decision-making, optimize power system operations, and improve grid resilience in increasingly complex energy environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Picture1.png" alt="Logo"></a>
-## Support or Contact
-👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](dchrys01@outlook.com)
+## 🔬 Research Interests
+- Machine Learning for Power Systems  
+- Bayesian Neural Networks & Uncertainty Quantification  
+- Graph Neural Networks for Grid Representation  
+- Deep Learning
+- Recurrent Neural Networks and LSTMs  
+- Control and Power Systems  
 
-####
-<a href="https://www.facebook.com/dimitris.chrysostomou1" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/fb.png" alt="Facebook" width="60"></a>
-<a href="https://twitter.com/DemetrisChryso1" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/twitter.png" alt="Twitter" width="60"></a>
-<a href="https://www.instagram.com/demetris_chrysostomou/" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/insta.png" alt="Instagram" width="60"></a>
-<a href="https://www.linkedin.com/in/demetris-chrysostomou/" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/linkedin.png" alt="LinkedIn" width="60"></a>
-<a href="https://scholar.google.com/citations?user=dvzS94wAAAAJ&hl=en" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/scholar.png" alt="Scholar" width="60"></a>
-<a href="https://github.com/Demetris-Ch" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/git.png" alt="GitHub" width="60"></a>
+## 🧠 Technical Skills
+- **AI & ML**: PyTorch, TensorFlow, Scikit-learn, Ensemble Learning, NLP (SpaCy, NLTK), RASA  
+- **Engineering Tools**: PowerFactory, MATLAB/Simulink, ROS  
+- **Dev Tools**: Git, Docker, Sphinx, Linux  
+- **Programming**: Python, C, Java, SQL, Android Studio  
 
-## Who am I:
-A Ph.D. candidate at the AI Energy lab of the IEPG group of TU Delft. I am a recent graduate of Robotics, Systems, and Control MSc at ETH Zurich fascinated with Machine Learning, Artificial Intelligence, and Power Systems
+## 📚 Selected Publications
+- *Tensor Convolution-Based Aggregated Flexibility Estimation in Active Distribution Systems*, IEEE Transactions on Smart Grid, 2024  
+- *A Novel ML-Based Load-Adaptive Power Supply System for Datacenters*, IEEE Access, 2021  
+- *Impact of Inverter-Based Generation on Islanding Detection Schemes*, EPSR, 2021  
 
-## <img align="left" width="80" height="80" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/work.png"> Work Experience:
-  <br />
-  <br />
-  
- * Mar. 2020- Sep. 2020 		**Research and Development Intern – ABB Corporate research** <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/abb.png">
+For a full list, see my scholar <a href="https://scholar.google.com/citations?user=dvzS94wAAAAJ&hl=en" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/scholar.jpg" alt="Scholar" width="60"></a> or CV <a href="https://scholar.google.com/citations?user=dvzS94wAAAAJ&hl=en" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/cv.png" alt="Scholar" width="60"></a>.
 
-   *	Cyber Physical Systems Group
-   *	Agile Environment
-   *	Nominated at the ABB New Talent Club
-   *	Utilized Artificial Intelligence, Natural Language Processing, Natural Language Understanding, Machine Learning 
-   *	Devised machine learning models and application logic for AI-assisted automated security testing for industrial automation systems 
-   *	Designed software architecture for proof of concept (POC)
-   *	Implemented POC and documented technical summary
+## 🧪 Projects
+- **TensorConvolutionPlus** – A Python package for flexibility area estimation in power networks  
+- **AI-Assisted Security Testing** – During R&D internship at ABB Corporate Research  
+- **Data-Driven Dynamic Equivalents** – Supervising MSc theses & publishing research on dynamic equivalent models  
+- **Graph Neural Networks in Power Systems** – Workshop tutor at AIT Vienna
 
+## 🌱 Current Role
+📍 Ph.D. Candidate at TU Delft  
+👨‍🏫 Teaching Assistant: *Intelligent Electrical Power Grids (IEPG)* MSc course  
+🔬 MegaMind Project Researcher – NWO-funded, in collaboration with IBM, TNO, Enexis, and others  
+🧑‍🔬 Secretary of IEEE TU Delft PES Chapter (2024–2025)
 
- * Jun. 2015 -Aug. 2018		**Research Assistant – Power Systems Modelling Laboratory, University of Cyprus** <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/PSM.png">
-   *  Participated in Research Projects
-   *  Designed Smartphone and Desktop Applications using Matlab, Java & Android Studio
-<br />
+## 🏆 Awards
+- Best BSc Thesis Award – University of Cyprus, 2018  
+- Scholarships – Leventis Foundation, Logicom  
+- Recognized by the Cyprus DSO for technical reports adopted in practice
 
+## 🎨 Outside the Lab
+When I’m not building AI models or simulating grids, I paint! I've hosted **two personal art exhibitions**, blending technical insight with creative expression.
+<img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Ideas_never_die.jpg" alt="Scholar" width="300">
+<img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Gorilla.png" alt="Scholar" width="300">
+<img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Warming.png" alt="Scholar" width="300">
+<img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Tiger.png" alt="Scholar" width="300">
 
-* May. 2018 – Jul. 2018	**External Evaluation Committee Member – CYQAA** <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/dipae.png">
-   *	The Cyprus Agency of Quality Assurance and Accreditation in Higher Education
-   *	The only student member of the Committee of 5 people, for Evaluation-Accreditation of:
-      1.	Intercollege, Electrical Technician Diploma
-      2.	Cyprus College, Electrical Technician Diploma
-<br />
+📫 Contact me at:  
+- Email: D.chrysostomou@tudelft.nl  
+- LinkedIn: <a href="[https://scholar.google.com/citations?user=dvzS94wAAAAJ&hl=en](https://www.linkedin.com/in/demetris-chrysostomou/" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/linkedin.png" alt="Scholar" width="60"></a>
+- X: <a href="https://x.com/DemetrisChryso1" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Xlogo.png" alt="Twitter" width="60"></a>
+- Instagram: <a href="https://www.instagram.com/demetris_chrysostomou/" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/insta.png" alt="Instagram" width="60"></a>
 
 
-* Jun. 2012 –Jun. 2014		**Soldier– National Guard of Cyprus** <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Army.png">
-   * Mandatory Service
-
-<br />
-<br />
-<br />
-
-## <img align="left" width="60" src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/edu.jpg"> Education:
-  <br />
-  <br />
-
-*	Sep. 2018 – Jun. 2021		**Robotics, Systems and Control Msc – ETH Zurich**
-  *	Thesis: “Optimal learning task paths for neural networks”
-  *	Semester Project: “Impact of Inverter-Based Generation on Islanding Detection Schemes in Distribution Networks”
-  *	Modules Include: Autonomous Mobility on Demand, Dynamic Programming and Optimal Control, Recursive Estimation, Introduction to Machine Learning, Probabilistic Artificial Intelligence, System Identification, Virtual and Augmented Reality in Medicine, Theory of Robotics and Mechatronics, Linear Systems Theory
-  *	GPA 5.24 out of 6
-
-* Sep. 2014 – Jun. 2018		**Electrical Engineering BSc – University of Cyprus**
-  *	Thesis: “AC Interference Study on DESFA Natural Gas Pipeline due to the Operation of a 20.8 MW Wind Park”
-  *	Excellent Performance - GPA 9.03 out of 10
-  *	Best Thesis of the Electrical and Computer Engineering Department for 2018
-
-* Sep. 2009 – Jun. 2012		**High School Diploma – Dali Lyceum**
-  *	Excellent Performance - GPA of 19.17 out of 20 
 
 
