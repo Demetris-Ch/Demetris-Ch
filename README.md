@@ -22,7 +22,7 @@ I'm a PhD researcher at TU Delft working at the intersection of **Artificial Int
 - *A Novel ML-Based Load-Adaptive Power Supply System for Datacenters*, IEEE Access, 2021  
 - *Impact of Inverter-Based Generation on Islanding Detection Schemes*, EPSR, 2021  
 
-For a full list, see my scholar <a href="https://scholar.google.com/citations?user=dvzS94wAAAAJ&hl=en" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/scholar.png" alt="Scholar" width="100"></a> or CV <a href="https://scholar.google.com/citations?user=dvzS94wAAAAJ&hl=en" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/cv.png" alt="Scholar" width="50"></a>.
+For a full list, see my scholar <a href="https://scholar.google.com/citations?user=dvzS94wAAAAJ&hl=en" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/scholar.png" alt="Scholar" width="50"></a> or CV <a href="https://scholar.google.com/citations?user=dvzS94wAAAAJ&hl=en" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/cv.png" alt="Scholar" width="50"></a>.
 
 ## 🧪 Projects
 - **TensorConvolutionPlus** – A Python package for flexibility area estimation in power networks  
@@ -44,17 +44,16 @@ For a full list, see my scholar <a href="https://scholar.google.com/citations?us
 ## 🎨 Outside the Lab
 When I’m not building AI models or simulating grids, I paint! I've hosted **two personal art exhibitions**, blending technical insight with creative expression.
 
-<img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Ideas_never_die.jpg" alt="Scholar" width="300">
-<img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Gorilla.png" alt="Scholar" width="300">
+<img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Ideas_never_die.jpg" alt="Scholar" width="300"> <img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Gorilla.png" alt="Scholar" width="300">
 
-<img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Warming.png" alt="Scholar" width="300">
-<img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Tiger.png" alt="Scholar" width="300">
+<img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Warming.png" alt="Scholar" width="300"> <img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Tiger.png" alt="Scholar" width="300">
 
-📫 Contact me at:  
+## 📫 Contact me at:  
 - Email: D.chrysostomou@tudelft.nl  
-- LinkedIn: <a href="[https://scholar.google.com/citations?user=dvzS94wAAAAJ&hl=en](https://www.linkedin.com/in/demetris-chrysostomou/" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/linkedin.png" alt="Scholar" width="40"></a>
-- X: <a href="https://x.com/DemetrisChryso1" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Xlogo.png" alt="Twitter" width="40"></a>
-- Instagram: <a href="https://www.instagram.com/demetris_chrysostomou/" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/insta.png" alt="Instagram" width="40"></a>
+
+## Social Media: 
+<a href="https://x.com/DemetrisChryso1" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Xlogo.png" alt="Twitter" width="40"></a>
+<a href="https://www.instagram.com/demetris_chrysostomou/" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/insta.png" alt="Instagram" width="40"></a>
 
 
 
