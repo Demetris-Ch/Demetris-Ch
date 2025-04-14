@@ -47,13 +47,13 @@ When I’m not building AI models or simulating grids, I paint! I've hosted **tw
 
 <img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Ideas_never_die.jpg" alt="Scholar" width="300"> <img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Gorilla.png" alt="Scholar" width="300">
 
-<img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Warming.png" alt="Scholar" width="300"> <img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Tiger.png" alt="Scholar" width="300">
+<img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Warming.png" alt="Scholar" width="322"> <img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Tiger.png" alt="Scholar" width="450">
 
 ## 📫 Contact me at:  
 - Email: D.chrysostomou@tudelft.nl  
 
 ## Social Media: 
-<a href="https://x.com/DemetrisChryso1" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Xlogo.png" alt="Twitter" width="40"></a>
+<a href="https://x.com/DemetrisChryso1" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/Xlogo.png" alt="Twitter" width="70"></a>
 <a href="https://www.instagram.com/demetris_chrysostomou/" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/insta.png" alt="Instagram" width="40"></a>
 
 
