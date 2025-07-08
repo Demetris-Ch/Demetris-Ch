@@ -37,11 +37,25 @@
           max-width: 100%;
           height: auto;}
     }
+    .links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1em;
+      align-items: center;
+      margin-top: 1em;
+    }
+    
+    .links a img {
+      height: 28px;
+      vertical-align: middle;
+    }
     @media (max-width: 768px) {
     .layout {
     flex-direction: column;
       }
-    
+     .links {
+        justify-content: center;
+      }
       .side-left, .side-right {
         display: none; /* optional: hide side images on mobile */
       }
@@ -75,7 +89,7 @@
         section { margin-top: 3em; }
         section h2 { color: #004080; border-bottom: 2px solid #ccc; padding-bottom: 0.5em; }
         .links a { margin-right: 1em; color: #004080; font-weight: bold; }
-        .button { background-color: #005bb5; color: white; padding: 0.5em 1em; border: none; border-radius: 5px; text-decoration: none; }
+        .button { background-color: #005bb5; color: white; padding: 0.5em 1em; border: none; border-radius: 5px; text-decoration: none; display: inline-block; font-weight: bold; white-space: nowrap;}
         .button:hover { background-color: #FFFFFF; }
         .paintings img { max-width: 250px; margin: 10px; border: 4px solid #ccc; border-radius: 8px; }
     </style>
@@ -88,7 +102,7 @@
     <img src="contain/demetris_profile_web.jpg" alt="Demetris Chrysostomou">
     <div>
         <h1>Demetris Chrysostomou</h1>
-        <p>Researcher in AI for Power Systems · AI Energy Lab, TU Delft · MegaMind Project</p>
+        <p>Researcher in Machine Learning for Power Systems, AI Energy Lab, TU Delft, MegaMind Project</p>
 
     </div>
 </header>
@@ -116,7 +130,7 @@
     <section id="research">
         <h2>Research</h2>
         My research is centered on developing machine learning methods that are robust, efficient, and trustworthy for use in critical real-world systems, particularly energy systems. As a PhD candidate at TU Delft in my final months, I have worked at the intersection of AI, optimization, and physical systems, contributing new algorithms that integrate data-driven learning with domain knowledge to improve reliability, generalization, and interpretability. 
-        With a background in Electrical Engineering (BSc, UCY) and Robotics Systems and Control (MSc, ETH Zurich), I bring a strong foundation in machine learning and optimization which I have deepened and expanded through my PhD in Machine Learning for Power Systems at TU Delft. My research integrates data-driven and model-based approaches to improve decision-making in complex, safety-critical systems. 
+        With a background in Electrical Engineering (BSc, UCY) and Robotics Systems and Control (MSc, ETH Zurich), I bring a strong foundation in machine learning and optimization, which I have deepened and expanded through my PhD in Machine Learning for Power Systems at TU Delft. My research integrates data-driven and model-based approaches to improve decision-making in complex, safety-critical systems. 
     </section>
     <section id="publications">
         <h2>Publications</h2>
@@ -143,7 +157,6 @@
     </section>  
     <section id="megamind">
         <h2>MegaMind Project – Research Track 10</h2>
-        <img src="contain/MegaMindLogo.png" alt="MegaMind logo" style="max-width: 200px; float: right; margin-left: 20px;">
         <p>As part of the NWO-funded MegaMind project, I serve as the lead researcher from TU Delft in <strong>Research Track 10 (RT10)</strong>. 
         This track focuses on the development of data-driven and AI-based methodologies to support real-time coordination between 
         transmission system operators (TSOs) and distribution system operators (DSOs). My research aims to enhance grid stability, 
