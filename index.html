@@ -37,6 +37,12 @@
           max-width: 100%;
           height: auto;}
     }
+    h2.section-title {
+      margin-bottom: 0.5em;
+      font-size: 1.5em;
+      color: #004080;
+      text-align: left;
+     }
     .links {
       display: flex;
       flex-wrap: wrap;
@@ -57,6 +63,9 @@
      .links {
         justify-content: center;
       }
+      h2.section-title {
+        text-align: left;  /* ← overrides accidental centering */
+      }
       .side-left, .side-right {
         display: none; /* optional: hide side images on mobile */
       }
@@ -73,7 +82,7 @@
           }
 
       header img {
-        height: 80px; /* smaller profile image */
+        height: 60px; /* smaller profile image */
         margin-bottom: 0.5em;
       }
 
@@ -122,7 +131,7 @@
         <p>Email: <a href="mailto:dchrys01@outlook.com">dchrys01@outlook.com</a></p>
     </section>
     <section class="links">
-        <h2>Links</h2>
+         <h2 class="section-title">Links</h2>
           <div class="links">
             <a href="https://www.linkedin.com/in/demetris-chrysostomou/" target="_blank"><img src="contain/linkedin.png" alt="LinkedIn" style="height: 40px; vertical-align: middle;"></a>
             <a href="https://github.com/Demetris-Ch" target="_blank"><img src="contain/git.png" alt="GirHub" style="height: 40px; vertical-align: middle;"></a>
