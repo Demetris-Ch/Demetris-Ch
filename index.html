@@ -82,14 +82,17 @@
           }
 
       header img {
-        height: 10px; /* smaller profile image */
+        height: 30px; /* smaller profile image */
+        width: auto;
+        max-width: 30px;
         margin-bottom: 0.5em;
+        border-radius: 50%;
       }
 
     }
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; background: #f4f4f9; color: #333; }
         header { background-color: #004080; color: white; padding: 1.5em; display: flex; align-items: center; gap: 1em}
-        header img { border-radius: 50%; height: 100px; width: auto; }
+        header img { border-radius: 50%; height: 60px; width: auto; }
         header h1 { margin: 0; font-size: 2em; }
         header p { margin-top: 0.5em; font-size: 1em; }
         nav { background-color: #003366; padding: 0.5em 2em; }
@@ -130,7 +133,7 @@
         <h2>Contact</h2>
         <p>Email: <a href="mailto:dchrys01@outlook.com">dchrys01@outlook.com</a></p>
     </section>
-    <section class="links">
+    <section id="links">
          <h2 class="section-title">Links</h2>
           <div class="links">
             <a href="https://www.linkedin.com/in/demetris-chrysostomou/" target="_blank"><img src="contain/linkedin.png" alt="LinkedIn" style="height: 40px; vertical-align: middle;"></a>
