@@ -43,6 +43,7 @@
       gap: 1em;
       align-items: center;
       margin-top: 1em;
+      margin-bottom: 2em;
     }
     
     .links a img {
@@ -79,7 +80,7 @@
     }
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; background: #f4f4f9; color: #333; }
         header { background-color: #004080; color: white; padding: 1.5em; display: flex; align-items: center; gap: 1em}
-        header img { border-radius: 50%; height: 120px; width: auto; }
+        header img { border-radius: 50%; height: 100px; width: auto; }
         header h1 { margin: 0; font-size: 2em; }
         header p { margin-top: 0.5em; font-size: 1em; }
         nav { background-color: #003366; padding: 0.5em 2em; }
@@ -89,8 +90,8 @@
         section { margin-top: 3em; }
         section h2 { color: #004080; border-bottom: 2px solid #ccc; padding-bottom: 0.5em; }
         .links a { margin-right: 1em; color: #004080; font-weight: bold; }
-        .button { background-color: #005bb5; color: white; padding: 0.5em 1em; border: none; border-radius: 5px; text-decoration: none; display: inline-block; font-weight: bold; white-space: nowrap;}
-        .button:hover { background-color: #FFFFFF; }
+        .button { background-color: #005bb5; color: white !important;  padding: 0.5em 1em; border: none; border-radius: 5px; text-decoration: none; display: inline-block; font-weight: bold; white-space: nowrap;}
+        .button:hover { background-color: #FFFFFF; color: #005bb5 !important}
         .paintings img { max-width: 250px; margin: 10px; border: 4px solid #ccc; border-radius: 8px; }
     </style>
 </head>
@@ -121,11 +122,13 @@
         <p>Email: <a href="mailto:dchrys01@outlook.com">dchrys01@outlook.com</a></p>
     </section>
     <section class="links">
-            <h2>Links</h2>
+        <h2>Links</h2>
+          <div class="links">
             <a href="https://www.linkedin.com/in/demetris-chrysostomou/" target="_blank"><img src="contain/linkedin.png" alt="LinkedIn" style="height: 40px; vertical-align: middle;"></a>
             <a href="https://github.com/Demetris-Ch" target="_blank"><img src="contain/git.png" alt="GirHub" style="height: 40px; vertical-align: middle;"></a>
             <a href="https://scholar.google.com/citations?user=dvzS94wAAAAJ&hl=en" target="_blank"><img src="contain/scholar_g.png" alt="Google Scholar" style="height: 40px; vertical-align: middle;"></a>
             <a href="contain/DemetrisCVJune2025.pdf" class="button" download>Download CV</a>
+          </div>
     </section>
     <section id="research">
         <h2>Research</h2>
