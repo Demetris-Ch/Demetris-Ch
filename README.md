@@ -22,7 +22,7 @@ I'm a PhD researcher at TU Delft working at the intersection of **Artificial Int
 - *A Novel ML-Based Load-Adaptive Power Supply System for Datacenters*, IEEE Access, 2021  
 - *Impact of Inverter-Based Generation on Islanding Detection Schemes*, EPSR, 2021  
 
-For a full list, see my scholar <a href="https://scholar.google.com/citations?user=dvzS94wAAAAJ&hl=en" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/scholar_g.png" alt="Scholar" width="60"></a> or CV [<img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/cv.png" alt="Scholar" width="50"></a>](contain/DemetrisCV2025MLNR.pdf)
+For a full list, see my scholar <a href="https://scholar.google.com/citations?user=dvzS94wAAAAJ&hl=en" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/scholar_g.png" alt="Scholar" width="60"></a> or CV [<img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/cv.png" alt="Scholar" width="50"></a>](contain/Demetris_CV_2025.pdf)
 .
 
 ## 🧪 Projects
