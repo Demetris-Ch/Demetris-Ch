@@ -5,7 +5,8 @@ I'm a PhD researcher at TU Delft working at the intersection of **Artificial Int
 
 ## 🔬 Research Interests
 - Machine Learning for Power Systems  
-- Bayesian Neural Networks & Uncertainty Quantification  
+- Bayesian Neural Networks & Uncertainty Quantification
+- Generative Models for Synthetic Data Generation 
 - Graph Neural Networks for Grid Representation  
 - Deep Learning
 - Recurrent Neural Networks and LSTMs  
@@ -19,7 +20,7 @@ I'm a PhD researcher at TU Delft working at the intersection of **Artificial Int
 
 ## 📚 Selected Publications
 - *Tensor Convolution-Based Aggregated Flexibility Estimation in Active Distribution Systems*, IEEE Transactions on Smart Grid, 2024  
-- *A Novel ML-Based Load-Adaptive Power Supply System for Datacenters*, IEEE Access, 2021  
+- *Machine Learning-based Method to Support TSO-DSO Adaptive Coordination with Active Power Management for Instability Prevention",*, Elsevier International Journal of Electrical Power and Energy Systems (IJEPES), 2025  
 - *Impact of Inverter-Based Generation on Islanding Detection Schemes*, EPSR, 2021  
 
 For a full list, see my scholar <a href="https://scholar.google.com/citations?user=dvzS94wAAAAJ&hl=en" target="_blank"><img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/scholar_g.png" alt="Scholar" width="60"></a> or CV [<img src="https://raw.githubusercontent.com/Demetris-Ch/Demetris-Ch/master/contain/cv.png" alt="Scholar" width="50"></a>](contain/Demetris_CV_2025.pdf)
